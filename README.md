@@ -28,8 +28,9 @@
 ### 测试
 
 + [jbehave](http://jbehave.org/reference/stable/meta-info.html)
++ [pyhton 单元测试框架unittest](https://docs.python.org/2.7/library/unittest.html)
 
 ### 学习网站
 
 + [极客学院wiki](http://wiki.jikexueyuan.com)
-+ [pyhton 单元测试框架unittest](https://docs.python.org/2.7/library/unittest.html)
+
