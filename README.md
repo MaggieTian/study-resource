@@ -30,6 +30,7 @@
 + [jbehave](http://jbehave.org/reference/stable/meta-info.html)
 + [pyhton 单元测试框架unittest](https://docs.python.org/2.7/library/unittest.html)
 + [Google charts](https://www.tutorialspoint.com/googlecharts/index.htm)
++ [Echarts](http://echarts.baidu.com/tutorial.html)
 + [Python behave](http://pythonhosted.org/behave/tutorial.html)
 
 ### 学习网站
